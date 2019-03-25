@@ -53,5 +53,8 @@ our country need us,the same to our people
 """
 print("原始字符串originWord=",originWord)
 
+# del originWord
+print(originWord) #删除了，报错
+
 print("kop"*3) #kop连接3次 打印
 print(4*'2') # >>>'2222'
