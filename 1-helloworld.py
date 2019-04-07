@@ -1,6 +1,5 @@
-#hello world
+a = 100 + 200 + 300
 
-a = 100 + 20
-print ("100+20=",a);
+print("100+200+300=", a)
 
 print('The quick brown fox', 'jumps over', 'the lazy dog')
